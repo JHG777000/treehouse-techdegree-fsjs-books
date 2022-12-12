@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JHG777000/treehouse-techdegree-fsjs-project-8#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pug": "^3.0.1",
     "sequelize": "^5.21.9",
     "sqlite3": "^4.2.0"
