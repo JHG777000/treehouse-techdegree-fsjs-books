@@ -1,1 +1,1 @@
-# treehouse-techdegree-fsjs-project-8
+# treehouse-techdegree-fsjs-books
